@@ -1,0 +1,23 @@
+body{
+        margin: 0;
+        font-family:'Times New Roman', Times, serif;
+
+}
+/* home Page Style start */
+.home{
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+        height: 300px;
+        background-color: black;
+        padding: 20px
+
+
+}
+.title{
+        color: white;
+        
+}
+
+
+/* home page style end */
